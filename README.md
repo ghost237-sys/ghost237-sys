@@ -38,8 +38,6 @@ I am a **Full-Stack Software Engineer** based in Kenya, specializing in building
 ### 📊 Let's Connect
 
 If you're looking for a technical collaborator, an engineer to join your dev team, or want to talk system design, reach out:
-**email** mwaniacaeser@gmail.com
 
-- **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
+
+- **Email:** mwaniacaeser@gmail.com
