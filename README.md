@@ -29,7 +29,7 @@ I am a **Full-Stack Software Engineer** based in Kenya, specializing in building
 * **Core Stack:** FastAPI, WebSockets, React, Redis, PostgreSQL
 * **Architectural Impact:** Designed a real-time event synchronization engine utilizing asynchronous WebSockets. Implemented a Redis layer to handle short-lived session states, eliminating database write bottlenecks during high concurrent traffic.
 
-#### 📁 [Smart Transit: e.g., Smart Logistics & Transit API]
+#### 📁 [Smart Transit:Smart Logistics & Transit API]
 * **Core Stack:** Django REST Framework, PostgreSQL, PostGIS, Docker
 * **Architectural Impact:** Engineered a robust transactional backend featuring scalable relational schemas. Built modular API endpoints optimized for low-latency JSON data delivery and reliable integration with external webhooks and services.
 
