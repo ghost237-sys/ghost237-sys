@@ -23,7 +23,7 @@ I am a **Full-Stack & Systems Engineer** based in Kenya, specializing in buildin
 | **AI & Automation** | Grok API (x.ai), OpenAI API, Prompt Engineering, Crisis Detection Pipelines |
 
 ---
-Markdown
+
 ### 🎯 Core Engineering Capabilities & Specializations
 
 ```typescript
@@ -42,47 +42,36 @@ const engineer = {
 };
 
 ```
+
 🚀 Featured Production Applications
 For live interactive demos, architecture documentation, and live credentials, visit my Personal Portfolio Website.
 
-🌿 [Serenity — AI Mental Health Platform]
+🌿 Serenity — AI Mental Health Platform
 Core Stack: Django 4.2, PostgreSQL, Grok LLM API, WhiteNoise, Docker, Railway
 
 Architectural Impact: Designed a multi-layered crisis detection engine combining local regex evaluation with LLM classification. Built fallback handlers so the application never crashes during API rate limits or network drops.
 
 Live Demo: serenityproject-production.up.railway.app (Demo user: demo / demo1234)
 
-📁 [Smart Transit — Logistics & Transit Platform]
+📁 Smart Transit — Logistics & Transit Platform
 Core Stack: Django, React, PostgreSQL, Redis, Celery, Docker
 
 Architectural Impact: Engineered a transactional backend with real-time route filtering, asynchronous queue handling via Redis/Celery, and automated M-Pesa payment webhook handling.
 
 ⚡ Production Debugging Routine
-Python
 def solve_production_bug(bug, coffee_cups=0):
     try:
         if bug.is_intermittent:
             # Quantum bug: disappears as soon as you open the debugger
             return "Cannot Reproduce"
-        
         while coffee_cups < 5:
             coffee_cups += 1
-            refactor_code()
-            
+            refactor_code()            
         raise StareAtScreenUntilItWorksError("Bug survived 5 cups of coffee.")
-
     except Exception as e:
         git_commit(message="WIP: fixed bug (hopefully)", force=True)
-        return "Works on my machine ¯\_(ツ)_/¯"
-📊 Let's Connect
-If you're looking for a technical collaborator, an engineer to join your dev team, or want to discuss system architecture, reach out:
+        return "Works on my machine ¯\\_(ツ)_/¯"
 
-Portfolio: mwaniaportfolio.vercel.app
-
-Email: mwaniacaeser@gmail.com
-
-        git_commit(message="WIP: fixed bug (hopefully)", force=True)
-        return "Works on my machine ¯\_(ツ)_/¯"
 📊 Let's Connect
 If you're looking for a technical collaborator, an engineer to join your dev team, or want to discuss system architecture, reach out:
 
