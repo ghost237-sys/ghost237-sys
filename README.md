@@ -46,6 +46,7 @@ const engineer = {
 🚀 Featured Production Applications
 For live interactive demos, architecture documentation, and live credentials, visit my Personal Portfolio Website.
 
+
 🌿 Serenity — AI Mental Health Platform
 Core Stack: Django 4.2, PostgreSQL, Grok LLM API, WhiteNoise, Docker, Railway
 
@@ -53,10 +54,14 @@ Architectural Impact: Designed a multi-layered crisis detection engine combining
 
 Live Demo: serenityproject-production.up.railway.app (Demo user: demo / demo1234)
 
+
+
 📁 Smart Transit — Logistics & Transit Platform
 Core Stack: Django, React, PostgreSQL, Redis, Celery, Docker
 
 Architectural Impact: Engineered a transactional backend with real-time route filtering, asynchronous queue handling via Redis/Celery, and automated M-Pesa payment webhook handling.
+
+
 
 ⚡ Production Debugging Routine
 def solve_production_bug(bug, coffee_cups=0):
@@ -64,10 +69,13 @@ def solve_production_bug(bug, coffee_cups=0):
         if bug.is_intermittent:
             # Quantum bug: disappears as soon as you open the debugger
             return "Cannot Reproduce"
+        
         while coffee_cups < 5:
             coffee_cups += 1
-            refactor_code()            
+            refactor_code()
+            
         raise StareAtScreenUntilItWorksError("Bug survived 5 cups of coffee.")
+
     except Exception as e:
         git_commit(message="WIP: fixed bug (hopefully)", force=True)
         return "Works on my machine ¯\\_(ツ)_/¯"
