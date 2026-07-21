@@ -23,25 +23,25 @@ I am a **Full-Stack & Systems Engineer** based in Kenya, specializing in buildin
 | **AI & Automation** | Grok API (x.ai), OpenAI API, Prompt Engineering, Crisis Detection Pipelines |
 
 ---
-
-### 🎯 Engineering Focus & Vunoh Scope Alignment
+Markdown
+### 🎯 Core Engineering Capabilities & Specializations
 
 ```typescript
 const engineer = {
   name: "Caesar Mwania",
   role: "Full-Stack & Systems Engineer",
-  phaseOne_Building: [
+  coreStack: [
     "Django REST Framework", "React / Vue.js", "PostgreSQL Schemas", 
     "Docker Containerization", "CI/CD & Live Deployments"
   ],
-  phaseTwo_Intelligence: [
+  aiAndAutomation: [
     "LLM API Integrations (Grok/x.ai)", "Automation Pipelines", 
     "Context-Aware Safety Engines", "Data-Driven Features"
   ],
   portfolioHub: "[https://mwaniaportfolio.vercel.app/](https://mwaniaportfolio.vercel.app/)"
 };
 
-
+```
 🚀 Featured Production Applications
 For live interactive demos, architecture documentation, and live credentials, visit my Personal Portfolio Website.
 
@@ -72,6 +72,15 @@ def solve_production_bug(bug, coffee_cups=0):
         raise StareAtScreenUntilItWorksError("Bug survived 5 cups of coffee.")
 
     except Exception as e:
+        git_commit(message="WIP: fixed bug (hopefully)", force=True)
+        return "Works on my machine ¯\_(ツ)_/¯"
+📊 Let's Connect
+If you're looking for a technical collaborator, an engineer to join your dev team, or want to discuss system architecture, reach out:
+
+Portfolio: mwaniaportfolio.vercel.app
+
+Email: mwaniacaeser@gmail.com
+
         git_commit(message="WIP: fixed bug (hopefully)", force=True)
         return "Works on my machine ¯\_(ツ)_/¯"
 📊 Let's Connect
