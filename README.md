@@ -64,6 +64,7 @@ Architectural Impact: Engineered a transactional backend with real-time route fi
 
 
 ⚡ Production Debugging Routine
+```
 def solve_production_bug(bug, coffee_cups=0):
     try:
         if bug.is_intermittent:
@@ -79,7 +80,7 @@ def solve_production_bug(bug, coffee_cups=0):
     except Exception as e:
         git_commit(message="WIP: fixed bug (hopefully)", force=True)
         return "Works on my machine ¯\\_(ツ)_/¯"
-
+```
 📊 Let's Connect
 If you're looking for a technical collaborator, an engineer to join your dev team, or want to discuss system architecture, reach out:
 
